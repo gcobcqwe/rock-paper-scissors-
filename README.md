@@ -6,6 +6,7 @@
 The step 1 :input your status,such as rock.<br>
 The step 2 :you will get message to win or lose.<br>
 <br>
+status : <br>
 <ol>
 <li>rock</li>
 <li>Spock</li>
@@ -30,4 +31,4 @@ Open a command line terminal and cd to the location where you will be placing th
 
 Clone the project directly from Github:
 
-git clone https://github.com/gcobcqwe/rock-paper-scissors.git 
+git clone https://github.com/gcobcqwe/rock-paper-scissors.git
